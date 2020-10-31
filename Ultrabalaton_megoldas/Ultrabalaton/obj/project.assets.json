@@ -8,25 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\nagyl\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\nagyl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\reinstall\\Gyak\\ultra_balaton\\Ultrabalaton\\Ultrabalaton\\Ultrabalaton.csproj",
+      "projectUniqueName": "D:\\Gyak\\Ultrabalaton\\Ultrabalaton\\Ultrabalaton.csproj",
       "projectName": "Ultrabalaton",
-      "projectPath": "D:\\reinstall\\Gyak\\ultra_balaton\\Ultrabalaton\\Ultrabalaton\\Ultrabalaton.csproj",
+      "projectPath": "D:\\Gyak\\Ultrabalaton\\Ultrabalaton\\Ultrabalaton.csproj",
       "packagesPath": "C:\\Users\\nagyl\\.nuget\\packages\\",
-      "outputPath": "D:\\reinstall\\Gyak\\ultra_balaton\\Ultrabalaton\\Ultrabalaton\\obj\\",
+      "outputPath": "D:\\Gyak\\Ultrabalaton\\Ultrabalaton\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\nagyl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -63,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
