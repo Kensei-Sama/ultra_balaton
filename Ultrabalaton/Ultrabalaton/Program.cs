@@ -19,6 +19,8 @@ namespace UltraBalaton
             }
 
             Console.WriteLine($"3. feladat: Egyéni indulók: {versenylista.Count} fő");
+
+
         }
     }
 }
