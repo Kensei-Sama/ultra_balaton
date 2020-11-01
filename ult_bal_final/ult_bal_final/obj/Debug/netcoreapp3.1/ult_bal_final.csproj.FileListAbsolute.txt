@@ -1,0 +1,13 @@
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\bin\Debug\netcoreapp3.1\ult_bal_final.exe
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\bin\Debug\netcoreapp3.1\ult_bal_final.deps.json
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\bin\Debug\netcoreapp3.1\ult_bal_final.runtimeconfig.json
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\bin\Debug\netcoreapp3.1\ult_bal_final.runtimeconfig.dev.json
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\bin\Debug\netcoreapp3.1\ult_bal_final.dll
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\bin\Debug\netcoreapp3.1\ult_bal_final.pdb
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\obj\Debug\netcoreapp3.1\ult_bal_final.csprojAssemblyReference.cache
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\obj\Debug\netcoreapp3.1\ult_bal_final.AssemblyInfoInputs.cache
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\obj\Debug\netcoreapp3.1\ult_bal_final.AssemblyInfo.cs
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\obj\Debug\netcoreapp3.1\ult_bal_final.csproj.CoreCompileInputs.cache
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\obj\Debug\netcoreapp3.1\ult_bal_final.dll
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\obj\Debug\netcoreapp3.1\ult_bal_final.pdb
+D:\reinstall\Gyak\ultra_balaton\ult_bal_final\ult_bal_final\obj\Debug\netcoreapp3.1\ult_bal_final.genruntimeconfig.cache
