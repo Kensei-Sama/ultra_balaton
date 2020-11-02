@@ -22,7 +22,7 @@ namespace ult_bal_final
             int nok = 0;
             for (int i = 0; i < versenylista.Count; i++)
             {
-                if (versenylista[i].Kategoria == "Női" && versenylista[i].Tavszazalek == 100)
+                if (versenylista[i].Kategoria == "Noi" && versenylista[i].Tavszazalek == 100)
                 {
                     nok++;
                 }
@@ -34,7 +34,11 @@ namespace ult_bal_final
             int seged = 0;
             Console.WriteLine("Adja meg a sportoló nevét: ");
             nev = Console.ReadLine();
-            while (seged < )
+            while (seged < versenylista.Count && !(versenylista[seged].Versenyzonev == nev))
+            {
+                seged++;
+            }
+            if (true)
             {
 
             }
